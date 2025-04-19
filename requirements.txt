@@ -1,0 +1,8 @@
+openai
+feedparser
+beautifulsoup4
+pytrends
+sentence-transformers
+chromadb
+profanity-check
+language-tool-python
