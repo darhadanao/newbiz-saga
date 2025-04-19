@@ -1,0 +1,15 @@
+# story_meta.yaml
+title: "60 Days New‑Biz Saga"
+protagonist:
+  name: 葵
+  age: 29
+  role: プロダクトマネージャー
+mentor:
+  name: 佐伯
+  age: 42
+  role: 元連続起業家
+company: ミライテック株式会社
+setting: |
+  舞台は東京・渋谷。大手企業の新規事業部門からスピンアウトした
+  社内スタートアップとしてゼロイチに挑戦する。
+tone: 人情＋データドリブン
